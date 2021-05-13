@@ -1,0 +1,16 @@
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.exe
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.deps.json
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.runtimeconfig.json
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.runtimeconfig.dev.json
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.dll
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\ref\Deck.dll
+C:\Users\Parker\source\repos\Deck\Deck\bin\Debug\net5.0\Deck.pdb
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.csprojAssemblyReference.cache
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.AssemblyInfoInputs.cache
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.AssemblyInfo.cs
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.csproj.CoreCompileInputs.cache
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.dll
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\ref\Deck.dll
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.pdb
+C:\Users\Parker\source\repos\Deck\Deck\obj\Debug\net5.0\Deck.genruntimeconfig.cache
